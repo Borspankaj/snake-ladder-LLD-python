@@ -1,1 +1,9 @@
-git test
+Low level Design ( LLD ) for Snake And Ladder game in python .
+
+Created 5 classes each for snake , ladder , board , dice , player .
+
+-- To run ---
+
+run main.py by using
+
+"python -m main.py"
